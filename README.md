@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gkakcl74
-- 👀 I’m interested in ... 전 알고리즘, 각종 개발에 관심이 많습니다.
-- 🌱 I’m currently learning ... 대학교에서 공부하고 있으며
-- 💞️ I’m looking to collaborate on ... 여러 프로젝트에 참여합니다.
-- 📫 How to reach me ... 
+- 👋 Hi, I’m LEE SH
+- 👀 I’m interested in ... I'm very interested in algorithms and various developments.
+- 🌱 I’m currently learning ... I'm studying at a university.
+- 💞️ I’m looking to collaborate on ... Participate in multiple projects.
+- 📫 How to reach me ... Please contact me by message.
 
 <!---
 gkakcl74/gkakcl74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
