@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ... I'm studying at a university. 
 - 💞️ I’m looking to collaborate on ... Participate in multiple projects.
 - 📫 How to reach me ... Please contact me by message.
-
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=gkakcl74" height="165">
 
 
 <!---
