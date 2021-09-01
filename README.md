@@ -10,8 +10,8 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=gkakcl74" height="165">
 
 ## I'm still an inexperienced programmer. I will continue to work hard.
-- am a beginner who has studied coding for less than a year.
-- I can handle Python, C language and HTML.
+- :book: am a beginner who has studied coding for less than a year.
+- :space_invader: I can handle Python, C language and HTML.
 - :video_game: I'm very interested in app development and game development.
 <!---
 gkakcl74/gkakcl74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
