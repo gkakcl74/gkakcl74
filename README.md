@@ -11,6 +11,8 @@
 
 ## I'm still an inexperienced programmer. I will continue to work hard.
 - am a beginner who has studied coding for less than a year.
+- I can handle Python, C language and HTML.
+- I'm very interested in app development and game development.
 <!---
 gkakcl74/gkakcl74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
