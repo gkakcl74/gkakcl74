@@ -9,6 +9,7 @@
 - 📫 How to reach me ... Please contact me by message.
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=gkakcl74" height="165">
 
+## I'm still an inexperienced programmer. I will continue to work hard.
 
 <!---
 gkakcl74/gkakcl74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
