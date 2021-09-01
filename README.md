@@ -1,6 +1,7 @@
-- 👋 Hi, I’m LEE SH
+
+- 👋 Hi, I’m LEE SH <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkakcl74">
 - 👀 I’m interested in ... I'm very interested in algorithms and various developments.
-- 🌱 I’m currently learning ... I'm studying at a university. <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkakcl74">
+- 🌱 I’m currently learning ... I'm studying at a university. 
 - 💞️ I’m looking to collaborate on ... Participate in multiple projects.
 - 📫 How to reach me ... Please contact me by message.
 
