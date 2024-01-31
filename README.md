@@ -3,6 +3,8 @@
 - 👋  Coordination through trial and error outperforms perfect planning.
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=gkakcl74">
+
+
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkakcl74">
 
 <!---
