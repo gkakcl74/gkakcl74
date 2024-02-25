@@ -5,22 +5,27 @@ I want to make a memorable program in a good sense for people.</br>
 I enjoy learning and continue to study. Although my skills are still not great, I will keep improving..
 ### Tech Stack:
 <div align="left">
-  <img src="https://img.shields.io/badge/C-6699FF.svg?style=for-the-badge&logo=C&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/C++-9999FF.svg?style=for-the-badge&logo=Cplusplus&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Csharp-6666FF.svg?style=for-the-badge&logo=Csharp&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C-black.svg?style=for-the-badge&logo=C&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C++-black.svg?style=for-the-badge&logo=Cplusplus&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Csharp-black.svg?style=for-the-badge&logo=Csharp&logoColor=white" />&nbsp
 </div>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Python-3300CC.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Python-black.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-black.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/HTML5-black.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
+</br>
 
+### My Tools:
 <div align="left">
-  <img src="https://img.shields.io/badge/MySQL-FF3300?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-FFCC33.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/HTML5-FF6600.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visualstudiocode&logoColor=ffd35b" />&nbsp
+  <img src="https://img.shields.io/badge/vs2022-black.svg?style=for-the-badge&logo=visualstudio&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Eclipse-black.svg?style=for-the-badge&logo=eclipseide&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/unity-black.svg?style=for-the-badge&logo=unity&logoColor=white" />&nbsp
 </div>
 </br>
 
