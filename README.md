@@ -3,11 +3,12 @@
 - 👋  Coordination through trial and error outperforms perfect planning.
 
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkakcl74">
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/C#-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/Python-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
@@ -19,8 +20,8 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/SQL-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
