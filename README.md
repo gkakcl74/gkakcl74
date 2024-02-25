@@ -4,7 +4,7 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkakcl74">
 <img src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/C#-20232a.svg?style=for-the-badge&logo=c#&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/C#-20232a.svg?style=for-the-badge&logo=c&logoColor=61DAFB" />
 
 
 <!---
