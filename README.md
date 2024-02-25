@@ -17,8 +17,6 @@
   <img src="https://img.shields.io/badge/Python-11557c.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://img.shields.io/badge/SQL-3670A0?style=for-the-badge&logo=mysql&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/JavaScript-150458.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
