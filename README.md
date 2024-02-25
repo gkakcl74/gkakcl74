@@ -26,7 +26,8 @@
 <div align = "left">
   <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkakcl74">
 </div>
-https://hip-fibre-278.notion.site/2a4598d92f5a475d9dc0b372e2ab5ba8?pvs=4
+
+### [Algorithm Solving Space](https://hip-fibre-278.notion.site/2a4598d92f5a475d9dc0b372e2ab5ba8?pvs=4)
 
 
 
