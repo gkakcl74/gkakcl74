@@ -7,7 +7,8 @@ I enjoy learning and continue to study. Although my skills are still not great, 
 <div align="left">
   <img src="https://img.shields.io/badge/C-black.svg?style=for-the-badge&logo=C&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C++-black.svg?style=for-the-badge&logo=Cplusplus&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Csharp-black.svg?style=for-the-badge&logo=Csharp&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C%23-black.svg?style=for-the-badge&logo=Csharp&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=OpenJDK&logoColor=white" />&nbsp
 </div>
 
 <div align="left">
