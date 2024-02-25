@@ -25,7 +25,7 @@ I enjoy learning and continue to study. Although my skills are still not great, 
 </br>
 
 ## Algorithm Solving Skills</h3>
-
+Solving algorithm problems is, in my opinion, a crucial element in enhancing creativity and logical thinking when it comes to coding. Therefore, I consistently solve problems every day and also participate in coding competitions.
 <div align = "left">
   <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkakcl74">
 </div>
