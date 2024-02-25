@@ -21,7 +21,7 @@ I enjoy learning and continue to study. Although my skills are still not great, 
 
 ### My Tools:
 <div align="left">
-  <img src="https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visualstudiocode&logoColor=ffd35b" />&nbsp
+  <img src="https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/vs2022-black.svg?style=for-the-badge&logo=visualstudio&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Eclipse-black.svg?style=for-the-badge&logo=eclipseide&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
