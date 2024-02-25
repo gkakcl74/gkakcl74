@@ -1,9 +1,9 @@
 ## 👋  Coordination through trial and error outperforms perfect planning
 ## 💠 Tech Stack
 <div align="left">
-  <img src="https://img.shields.io/badge/C-CCCCFF.svg?style=for-the-badge&logo=C&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/C++-9999FF.svg?style=for-the-badge&logo=Cplusplus&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/Csharp-6666FF.svg?style=for-the-badge&logo=C#&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/C-6699FF.svg?style=for-the-badge&logo=C&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C++-9999FF.svg?style=for-the-badge&logo=Cplusplus&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Csharp-6666FF.svg?style=for-the-badge&logo=Csharp&logoColor=white" />&nbsp
 </div>
 
 <div align="left">
@@ -13,8 +13,8 @@
 </div>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/SQL-FF3300?style=for-the-badge&logo=mysql&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-FFCC00.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MySQL-FF3300?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-FFCC33.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/HTML5-FF6600.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
@@ -22,7 +22,6 @@
 
 ## 🔗 Algorithm Solving Skills</h3>
 
-</br>
 <div align = "left">
   <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkakcl74">
 </div>
