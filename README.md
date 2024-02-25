@@ -3,7 +3,7 @@
 - 👋  Coordination through trial and error outperforms perfect planning.
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkakcl74">
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=61DAFB" />
 
 <!---
 gkakcl74/gkakcl74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
