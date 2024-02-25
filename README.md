@@ -33,7 +33,8 @@ I enjoy learning and continue to study. Although my skills are still not great, 
 ## Algorithm Solving Skills</h3>
 Solving algorithm problems is, in my opinion, a crucial element in enhancing creativity and logical thinking when it comes to coding. Therefore, I consistently solve problems every day and also participate in coding competitions.
 <div align = "left">
-  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkakcl74">
+  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkakcl74"></br>
+  <img src="http://mazandi.herokuapp.com/api?handle=gkakcl74&theme=dark"/>
 </div>
 
 ### [Algorithm Solving Space](https://hip-fibre-278.notion.site/2a4598d92f5a475d9dc0b372e2ab5ba8?pvs=4)
