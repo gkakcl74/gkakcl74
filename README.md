@@ -1,6 +1,6 @@
 ## Coordination through trial and error outperforms perfect planning
 Hello! I am a college student majoring in computer science in Seoul!</br>
-As of 2022... My favorite programming languages are C# and C++.
+As of 2022... My favorite programming languages are C# and C++.</br>
 I want to make a memorable program in a good sense for people.</br>
 I enjoy learning and continue to study. Although my skills are still not great, I will keep improving..
 ### Tech Stack:
