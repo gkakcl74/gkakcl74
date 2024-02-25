@@ -2,7 +2,7 @@
 
 - 👋  Coordination through trial and error outperforms perfect planning.
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkakcl74">
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkakcl74">
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
