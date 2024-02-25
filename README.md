@@ -1,6 +1,5 @@
 ## 👋  Coordination through trial and error outperforms perfect planning
-<br/>
-<h3 align="left"> 💠 Tech Stack 💠 </h3>
+## 💠 Tech Stack
 <div align="left">
   <img src="https://img.shields.io/badge/C-CCCCFF.svg?style=for-the-badge&logo=C&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C++-9999FF.svg?style=for-the-badge&logo=Cplusplus&logoColor=61DAFB" />&nbsp
@@ -20,9 +19,8 @@
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 </br>
-</br>
 
-## 🔗 Algorithm Solving Skills 🔗</h3>
+## 🔗 Algorithm Solving Skills</h3>
 
 </br>
 <div align = "left">
