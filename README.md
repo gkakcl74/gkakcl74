@@ -1,5 +1,9 @@
-## 👋  Coordination through trial and error outperforms perfect planning
-## 💠 Tech Stack
+## Coordination through trial and error outperforms perfect planning
+Hello! I am a college student majoring in computer science in Seoul!</br>
+As of 2022... My favorite programming languages are C# and C++.
+I want to make a memorable program in a good sense for people.</br>
+I enjoy learning and continue to study. Although my skills are still not great, I will keep improving..
+### Tech Stack:
 <div align="left">
   <img src="https://img.shields.io/badge/C-6699FF.svg?style=for-the-badge&logo=C&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C++-9999FF.svg?style=for-the-badge&logo=Cplusplus&logoColor=white" />&nbsp
@@ -20,7 +24,7 @@
 </div>
 </br>
 
-## 🔗 Algorithm Solving Skills</h3>
+## Algorithm Solving Skills</h3>
 
 <div align = "left">
   <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkakcl74">
