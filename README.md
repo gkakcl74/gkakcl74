@@ -9,10 +9,10 @@ I enjoy learning and continue to study. Although my skills are still not great, 
   <img src="https://img.shields.io/badge/C++-black.svg?style=for-the-badge&logo=Cplusplus&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C%23-black.svg?style=for-the-badge&logo=Csharp&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=OpenJDK&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Python-black.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
 </div>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-black.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/JavaScript-black.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/HTML5-black.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
@@ -26,6 +26,9 @@ I enjoy learning and continue to study. Although my skills are still not great, 
   <img src="https://img.shields.io/badge/vs2022-black.svg?style=for-the-badge&logo=visualstudio&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Eclipse-black.svg?style=for-the-badge&logo=eclipseide&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/unity-black.svg?style=for-the-badge&logo=unity&logoColor=white" />&nbsp
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Jupyter Notebook-black.svg?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
 </div>
 </br>
 
